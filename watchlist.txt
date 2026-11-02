@@ -1,0 +1,4 @@
+# Add product links here, one per line. Optional category after a | sign.
+# Example:
+# https://www.jumia.com.eg/some-product-123456.html | electronics
+# Leave the category out and it is chosen automatically.
