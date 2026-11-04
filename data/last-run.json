@@ -1,0 +1,54 @@
+{
+  "ts": 1793788929,
+  "checked": 0,
+  "ok": 0,
+  "failed": 0,
+  "added": 0,
+  "newListings": 0,
+  "removed": 0,
+  "blocked": {},
+  "sources": [
+    {
+      "url": "https://www.amazon.eg/",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=iphone",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=samsung",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=xiaomi",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=laptop",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=tv",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%AB%D9%84%D8%A7%D8%AC%D8%A9",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%AA%D9%83%D9%8A%D9%8A%D9%81",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+      "links": 0
+    }
+  ],
+  "errors": [],
+  "fromWatchlist": 0
+}
