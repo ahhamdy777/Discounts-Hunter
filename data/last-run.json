@@ -1,54 +1,42 @@
 {
-  "ts": 1793788929,
+  "ts": 1793789022,
   "checked": 0,
   "ok": 0,
   "failed": 0,
   "added": 0,
   "newListings": 0,
   "removed": 0,
-  "blocked": {},
+  "blocked": {
+    "jumia": 2,
+    "amazon": 2
+  },
   "sources": [
     {
-      "url": "https://www.amazon.eg/",
+      "url": "https://www.amazon.eg/s?k=%D8%B9%D8%B7%D8%B1",
       "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=iphone",
+      "url": "https://www.amazon.eg/s?k=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9",
       "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=samsung",
+      "url": "https://www.amazon.eg/s?k=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9",
       "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=xiaomi",
+      "url": "https://www.amazon.eg/s?k=air+fryer",
       "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=laptop",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=tv",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D8%AB%D9%84%D8%A7%D8%AC%D8%A9",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D8%AA%D9%83%D9%8A%D9%8A%D9%81",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+      "url": "https://www.amazon.eg/s?k=%D9%85%D9%83%D9%86%D8%B3%D8%A9",
       "links": 0
     }
   ],
-  "errors": [],
+  "errors": [
+    "listing https://www.jumia.com.eg/smartphones/: HTTP 403",
+    "listing https://www.jumia.com.eg/phones-tablets/: HTTP 403",
+    "listing https://www.amazon.eg/gp/bestsellers/: blocked (Amazon robot check page)",
+    "listing https://www.amazon.eg/gp/new-releases/: blocked (Amazon robot check page)"
+  ],
   "fromWatchlist": 0
 }
