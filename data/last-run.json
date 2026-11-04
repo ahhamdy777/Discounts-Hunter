@@ -1,5 +1,5 @@
 {
-  "ts": 1793789022,
+  "ts": 1793809758,
   "checked": 0,
   "ok": 0,
   "failed": 0,
@@ -7,36 +7,22 @@
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "jumia": 2,
-    "amazon": 2
+    "jumia": 2
   },
   "sources": [
     {
-      "url": "https://www.amazon.eg/s?k=%D8%B9%D8%B7%D8%B1",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=air+fryer",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D9%85%D9%83%D9%86%D8%B3%D8%A9",
+      "url": "https://btech.com/en/",
       "links": 0
     }
   ],
   "errors": [
-    "listing https://www.jumia.com.eg/smartphones/: HTTP 403",
-    "listing https://www.jumia.com.eg/phones-tablets/: HTTP 403",
-    "listing https://www.amazon.eg/gp/bestsellers/: blocked (Amazon robot check page)",
-    "listing https://www.amazon.eg/gp/new-releases/: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/catalog/?q=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9: HTTP 403",
+    "listing https://www.jumia.com.eg/catalog/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9: HTTP 403",
+    "listing https://btech.com/en/catalogsearch/result/?q=iphone: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=samsung: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=xiaomi: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=laptop: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=tv: HTTP 404"
   ],
   "fromWatchlist": 0
 }
