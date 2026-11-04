@@ -1,0 +1,15 @@
+UPDATE PACKAGE (Amazon support + fixes)
+
+Contains only the 2 files that changed:
+  index.html
+  scraper/scrape.mjs
+
+How to upload (on a computer):
+1. Unzip this file.
+2. Open your repository on GitHub, click  Add file > Upload files.
+3. Drag the folder "scraper" AND the file "index.html" from the unzipped folder into the page
+   (drag the folder itself, not the files inside it).
+4. Check the list shows "scraper/scrape.mjs", then click Commit changes.
+5. Actions tab > Update prices and deploy site > Run workflow.
+
+Do NOT upload the "data" folder: it holds your live prices and history.
