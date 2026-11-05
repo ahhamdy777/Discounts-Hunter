@@ -1,18 +1,48 @@
 {
-  "ts": 1793845433,
-  "checked": 0,
-  "ok": 0,
+  "ts": 1793875736,
+  "checked": 60,
+  "ok": 12,
   "failed": 0,
-  "added": 0,
+  "added": 60,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "2b": 2
+    "2b": 2,
+    "noon": 48
   },
-  "sources": [],
+  "sources": [
+    {
+      "url": "https://www.noon.com/egypt-en/",
+      "links": 0
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=iphone",
+      "links": 50
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=samsung",
+      "links": 50
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=xiaomi",
+      "links": 50
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=laptop",
+      "links": 50
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=tv",
+      "links": 48
+    }
+  ],
   "errors": [
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=iphone: HTTP 403",
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=samsung: HTTP 403"
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9: HTTP 403",
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-256gb-mist-blue-5g-nano-sim-esim-with-fa: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-256gb-esim-only-sage-5g-with-facetime-in: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-256gb-nano-sim-esim-deep-blue-5g: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-256gb-nano-sim-esim-white-5g-with-faceti: HTTP 403"
   ],
   "fromWatchlist": 0
 }
