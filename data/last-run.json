@@ -1,29 +1,20 @@
 {
-  "ts": 1793923941,
+  "ts": 1793947050,
   "checked": 143,
   "ok": 143,
   "failed": 0,
-  "added": 23,
+  "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "jumia": 2,
-    "2b": 2
+    "amazon": 1
   },
-  "sources": [
-    {
-      "url": "https://www.noon.com/egypt-en/electronics-and-mobiles/",
-      "links": 23
-    }
-  ],
+  "sources": [],
   "errors": [
-    "listing https://www.jumia.com.eg/mobile-phones/: HTTP 403",
-    "listing https://www.jumia.com.eg/televisions/: HTTP 403",
-    "listing https://btech.com/en/televisions.html: HTTP 404",
-    "listing https://btech.com/en/home-appliances.html: HTTP 404",
-    "listing https://2b.com.eg/en/mobile-phones.html: HTTP 403",
-    "listing https://2b.com.eg/en/home-appliances.html: HTTP 403"
+    "listing https://www.jumia.com.eg/catalog/?q=samsung: HTTP 403",
+    "listing https://www.jumia.com.eg/catalog/?q=xiaomi: HTTP 403",
+    "listing https://www.amazon.eg/: blocked (Amazon robot check page)"
   ],
-  "fromWatchlist": 0,
-  "demoRemoved": 16
+  "fromWatchlist": 0
 }
