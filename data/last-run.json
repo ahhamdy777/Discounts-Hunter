@@ -1,37 +1,29 @@
 {
-  "ts": 1793904180,
-  "checked": 120,
-  "ok": 0,
+  "ts": 1793923941,
+  "checked": 143,
+  "ok": 143,
   "failed": 0,
-  "added": 60,
+  "added": 23,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "noon": 122,
-    "jumia": 1
+    "jumia": 2,
+    "2b": 2
   },
   "sources": [
     {
-      "url": "https://www.noon.com/egypt-en/search/?q=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9",
-      "links": 13
-    },
-    {
-      "url": "https://www.noon.com/egypt-en/search/?q=%D8%AB%D9%84%D8%A7%D8%AC%D8%A9",
-      "links": 38
-    },
-    {
-      "url": "https://www.noon.com/egypt-en/search/?q=%D8%AA%D9%83%D9%8A%D9%8A%D9%81",
-      "links": 39
-    },
-    {
-      "url": "https://www.noon.com/egypt-en/search/?q=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-      "links": 0
+      "url": "https://www.noon.com/egypt-en/electronics-and-mobiles/",
+      "links": 23
     }
   ],
   "errors": [
-    "listing https://www.noon.com/egypt-en/search/?q=%D8%B9%D8%B7%D8%B1: HTTP 403",
-    "listing https://www.noon.com/egypt-en/search/?q=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9: HTTP 403",
-    "listing https://www.jumia.com.eg/: HTTP 403"
+    "listing https://www.jumia.com.eg/mobile-phones/: HTTP 403",
+    "listing https://www.jumia.com.eg/televisions/: HTTP 403",
+    "listing https://btech.com/en/televisions.html: HTTP 404",
+    "listing https://btech.com/en/home-appliances.html: HTTP 404",
+    "listing https://2b.com.eg/en/mobile-phones.html: HTTP 403",
+    "listing https://2b.com.eg/en/home-appliances.html: HTTP 403"
   ],
-  "fromWatchlist": 0
+  "fromWatchlist": 0,
+  "demoRemoved": 16
 }
