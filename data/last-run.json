@@ -1,49 +1,58 @@
 {
-  "ts": 1793977159,
+  "ts": 1793998332,
   "checked": 163,
-  "ok": 1,
+  "ok": 15,
   "failed": 0,
   "added": 60,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "amazon": 24,
-    "noon": 143
+    "jumia": 2,
+    "noon": 135,
+    "amazon": 13
   },
   "sources": [
     {
-      "url": "https://www.amazon.eg/s?k=samsung",
-      "links": 112
+      "url": "https://www.amazon.eg/s?k=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9",
+      "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=xiaomi",
-      "links": 149
+      "url": "https://www.amazon.eg/s?k=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9",
+      "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=tv",
-      "links": 140
+      "url": "https://www.amazon.eg/s?k=air+fryer",
+      "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=%D8%AB%D9%84%D8%A7%D8%AC%D8%A9",
-      "links": 139
+      "url": "https://www.amazon.eg/s?k=%D9%85%D9%83%D9%86%D8%B3%D8%A9",
+      "links": 0
     },
     {
-      "url": "https://www.amazon.eg/s?k=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
-      "links": 165
+      "url": "https://www.amazon.eg/gp/bestsellers/",
+      "links": 72
+    },
+    {
+      "url": "https://www.amazon.eg/gp/new-releases/",
+      "links": 72
+    },
+    {
+      "url": "https://www.amazon.eg/gp/movers-and-shakers/",
+      "links": 0
     }
   ],
   "errors": [
-    "listing https://www.amazon.eg/s?k=iphone: HTTP 503",
-    "listing https://www.amazon.eg/s?k=laptop: HTTP 503",
-    "listing https://www.amazon.eg/s?k=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9: HTTP 503",
-    "listing https://www.amazon.eg/s?k=%D8%AA%D9%83%D9%8A%D9%8A%D9%81: HTTP 503",
-    "listing https://www.amazon.eg/s?k=%D8%B9%D8%B7%D8%B1: HTTP 503",
-    "noon https://www.noon.com/egypt-en/10000-mah-jr-pbf12-led-power-bank-12-w-usb-c-pd-du: HTTP 403",
-    "noon https://www.noon.com/egypt-en/tapo-c200-pan-tilt-1080p-full-hd-home-security-wi-: HTTP 403",
-    "noon https://www.noon.com/egypt-en/r50i-nc-by-anker-noise-cancelling-earbuds-strong-a: HTTP 403",
-    "noon https://www.noon.com/egypt-en/a200-plus-dual-sim-comet-orange-3gb-ram-128gb-4g-m: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0GSVY584Z: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0GSVY9TPZ: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/smartphones/: HTTP 403",
+    "listing https://www.jumia.com.eg/phones-tablets/: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-256gb-esim-only-mist-blue-5g-with-faceti: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-256-gb-deep-blue-5g-nano-sim-e-s: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-256gb-nano-sim-esim-sage-5g-with-facetim: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0DSLS4MN7: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0GQBZ32Y3: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0GQCB3GLH: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B09VHBJZZ3: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B09VHTQSYX: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
