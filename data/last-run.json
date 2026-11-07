@@ -1,25 +1,24 @@
 {
-  "ts": 1794059901,
+  "ts": 1794077089,
   "checked": 163,
-  "ok": 1,
+  "ok": 0,
   "failed": 0,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "2b": 2,
-    "noon": 142,
+    "noon": 145,
     "amazon": 20
   },
   "sources": [],
   "errors": [
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=samsung: HTTP 403",
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=xiaomi: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-256gb-nano-sim-esim-lavender-5g-with-fac: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-256gb-nano-sim-esim-mist-blue-5g-with-fa: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-256gb-esim-only-lavender-5g-with-facetim: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B08WJNC7B2: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0FKHGKKD2: blocked (Amazon robot check page)"
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9: HTTP 403",
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=air+fryer: HTTP 403",
+    "listing https://www.noon.com/egypt-en/: HTTP 403",
+    "listing https://www.noon.com/egypt-en/search/?q=iphone&page=2: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0HLRMYLRV: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0HLTQBJ8M: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
