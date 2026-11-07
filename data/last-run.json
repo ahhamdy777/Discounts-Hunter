@@ -1,58 +1,32 @@
 {
-  "ts": 1793998332,
+  "ts": 1794012843,
   "checked": 163,
-  "ok": 15,
+  "ok": 143,
   "failed": 0,
-  "added": 60,
+  "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "jumia": 2,
-    "noon": 135,
-    "amazon": 13
+    "amazon": 20
   },
   "sources": [
     {
-      "url": "https://www.amazon.eg/s?k=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=air+fryer",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=%D9%85%D9%83%D9%86%D8%B3%D8%A9",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/gp/bestsellers/",
-      "links": 72
-    },
-    {
-      "url": "https://www.amazon.eg/gp/new-releases/",
-      "links": 72
-    },
-    {
-      "url": "https://www.amazon.eg/gp/movers-and-shakers/",
+      "url": "https://btech.com/en/",
       "links": 0
     }
   ],
   "errors": [
-    "listing https://www.jumia.com.eg/smartphones/: HTTP 403",
-    "listing https://www.jumia.com.eg/phones-tablets/: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-256gb-esim-only-mist-blue-5g-with-faceti: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-256-gb-deep-blue-5g-nano-sim-e-s: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-256gb-nano-sim-esim-sage-5g-with-facetim: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-256-gb-esim-only-silver-5g-with-: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0DSLS4MN7: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0GQBZ32Y3: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0GQCB3GLH: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B09VHBJZZ3: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B09VHTQSYX: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/catalog/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9: HTTP 403",
+    "listing https://www.jumia.com.eg/catalog/?q=air+fryer: HTTP 403",
+    "listing https://btech.com/en/catalogsearch/result/?q=iphone: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=samsung: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=xiaomi: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=laptop: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=tv: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9: HTTP 404",
+    "amazon https://www.amazon.eg/dp/B0H4LDK36W: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0DZHPR6CS: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
