@@ -1,32 +1,37 @@
 {
-  "ts": 1794104797,
+  "ts": 1794132964,
   "checked": 240,
-  "ok": 221,
-  "failed": 1,
-  "added": 23,
+  "ok": 2,
+  "failed": 3,
+  "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "jumia": 2,
-    "2b": 2,
-    "amazon": 18
+    "noon": 215,
+    "amazon": 20
   },
   "sources": [
     {
-      "url": "https://www.noon.com/egypt-en/electronics-and-mobiles/?page=2",
-      "links": 23
+      "url": "https://www.amazon.eg/",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=iphone",
+      "links": 0
     }
   ],
   "errors": [
-    "listing https://www.jumia.com.eg/televisions/: HTTP 403",
-    "listing https://www.jumia.com.eg/home-appliances/: HTTP 403",
-    "listing https://btech.com/en/televisions.html: HTTP 404",
-    "listing https://btech.com/en/home-appliances.html: HTTP 404",
-    "listing https://2b.com.eg/en/mobile-phones.html: HTTP 403",
-    "listing https://2b.com.eg/en/home-appliances.html: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: no price found",
-    "amazon https://www.amazon.eg/dp/B0DSLTQQL3: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0DSQ3JXQ3: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/catalog/?q=xiaomi: HTTP 403",
+    "listing https://www.jumia.com.eg/catalog/?q=laptop: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-blue-512-gigabyte-nano-esim-5g-with-: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-18-pro-max-256gb-nano-sim-esim-black-5g-wit: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: no price found",
+    "noon https://www.noon.com/egypt-en/instax-mini-instant-film-10-sheet-white/N70133422V: HTTP 403",
+    "noon https://www.noon.com/egypt-en/freepods-3c-enc-calling-noise-cancellation-powerfu: HTTP 403",
+    "noon https://www.noon.com/egypt-en/10000-mah-power-bank-10-000mah-20w-pd-usb-c-22-5w-: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0H4LDK36W: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0DZHPR6CS: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
