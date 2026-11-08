@@ -1,37 +1,23 @@
 {
-  "ts": 1794132964,
+  "ts": 1794156045,
   "checked": 240,
-  "ok": 2,
-  "failed": 3,
+  "ok": 0,
+  "failed": 0,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "jumia": 2,
-    "noon": 215,
-    "amazon": 20
+    "amazon": 22,
+    "noon": 220
   },
-  "sources": [
-    {
-      "url": "https://www.amazon.eg/",
-      "links": 0
-    },
-    {
-      "url": "https://www.amazon.eg/s?k=iphone",
-      "links": 0
-    }
-  ],
+  "sources": [],
   "errors": [
-    "listing https://www.jumia.com.eg/catalog/?q=xiaomi: HTTP 403",
-    "listing https://www.jumia.com.eg/catalog/?q=laptop: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-blue-512-gigabyte-nano-esim-5g-with-: no price found",
-    "noon https://www.noon.com/egypt-en/iphone-18-pro-max-256gb-nano-sim-esim-black-5g-wit: no price found",
-    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: no price found",
-    "noon https://www.noon.com/egypt-en/instax-mini-instant-film-10-sheet-white/N70133422V: HTTP 403",
-    "noon https://www.noon.com/egypt-en/freepods-3c-enc-calling-noise-cancellation-powerfu: HTTP 403",
-    "noon https://www.noon.com/egypt-en/10000-mah-power-bank-10-000mah-20w-pd-usb-c-22-5w-: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0H4LDK36W: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0DZHPR6CS: blocked (Amazon robot check page)"
+    "listing https://www.amazon.eg/s?k=samsung&page=2: HTTP 503",
+    "listing https://www.amazon.eg/s?k=xiaomi&page=2: HTTP 503",
+    "noon https://www.noon.com/egypt-en/dualshock-wireless-controller-for-playstation-4/N1: HTTP 403",
+    "noon https://www.noon.com/egypt-en/canon-pixma-ts3640-wireless-colour-3-in-one-inkjet: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: HTTP 403",
+    "noon https://www.noon.com/egypt-en/20-sheet-instax-film-photo-paper-white/N15674568A/: HTTP 403"
   ],
   "fromWatchlist": 0
 }
