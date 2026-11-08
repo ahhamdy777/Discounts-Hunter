@@ -1,23 +1,40 @@
 {
-  "ts": 1794156045,
+  "ts": 1794172078,
   "checked": 240,
-  "ok": 0,
+  "ok": 3,
   "failed": 0,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
+    "jumia": 2,
     "amazon": 22,
-    "noon": 220
+    "noon": 217
   },
-  "sources": [],
+  "sources": [
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=air+fryer",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D9%85%D9%83%D9%86%D8%B3%D8%A9",
+      "links": 0
+    }
+  ],
   "errors": [
-    "listing https://www.amazon.eg/s?k=samsung&page=2: HTTP 503",
-    "listing https://www.amazon.eg/s?k=xiaomi&page=2: HTTP 503",
-    "noon https://www.noon.com/egypt-en/dualshock-wireless-controller-for-playstation-4/N1: HTTP 403",
-    "noon https://www.noon.com/egypt-en/canon-pixma-ts3640-wireless-colour-3-in-one-inkjet: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: HTTP 403",
-    "noon https://www.noon.com/egypt-en/20-sheet-instax-film-photo-paper-white/N15674568A/: HTTP 403"
+    "listing https://www.jumia.com.eg/smartphones/: HTTP 403",
+    "listing https://www.jumia.com.eg/phones-tablets/: HTTP 403",
+    "listing https://www.amazon.eg/gp/bestsellers/?page=2: blocked (Amazon robot check page)",
+    "listing https://www.amazon.eg/gp/new-releases/?page=2: blocked (Amazon robot check page)",
+    "noon https://www.noon.com/egypt-en/c100i-dual-sim-4gb-ram-128gb-dusk-gray-4g-middle-e: HTTP 403",
+    "noon https://www.noon.com/egypt-en/10000-0-mah-ugreen-10000mah-mini-quick-charging-20: HTTP 403",
+    "noon https://www.noon.com/egypt-en/tegenaria-lite-wired-controller-for-pc-wired-1000h: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-256gb-esim-only-lavender-5g-with-facetim: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17-256gb-nano-sim-esim-lavender-5g-with-fac: HTTP 403"
   ],
   "fromWatchlist": 0
 }
