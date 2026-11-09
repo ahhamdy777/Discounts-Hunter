@@ -1,32 +1,29 @@
 {
-  "ts": 1794210931,
+  "ts": 1794249879,
   "checked": 240,
-  "ok": 230,
-  "failed": 3,
+  "ok": 6,
+  "failed": 0,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "2b": 2,
-    "amazon": 7
+    "noon": 220,
+    "amazon": 14
   },
   "sources": [],
   "errors": [
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%AA%D9%83%D9%8A%D9%8A%D9%81: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%B9%D8%B7%D8%B1: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=air+fryer: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 404",
-    "listing https://2b.com.eg/en/: HTTP 403",
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=iphone: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: no price found",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-blue-512-gigabyte-nano-esim-5g-with-: no price found",
-    "noon https://www.noon.com/egypt-en/iphone-18-pro-max-256gb-nano-sim-esim-black-5g-wit: no price found",
-    "amazon https://www.amazon.eg/dp/B0GSVY584Z: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0GSVWYSJ8: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0FLDJP93D: blocked (Amazon robot check page)"
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=xiaomi: HTTP 403",
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=laptop: HTTP 403",
+    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: HTTP 403",
+    "noon https://www.noon.com/egypt-en/washing-machine-feathers-10-kg-fwm-40-white/N52887: HTTP 403",
+    "noon https://www.noon.com/egypt-en/toshiba-refrigerator-gr-rt558we-pmn-57-origin-inve: HTTP 403",
+    "noon https://www.noon.com/egypt-en/30000-mah-30000-mah-power-bank-22-5w-pd-qc3-0-afc-: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0DSLSY7NV: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0DSQ3JXQ3: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0GQCB3GLH: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B09VH8WQ41: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B09VHBJZZ3: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
