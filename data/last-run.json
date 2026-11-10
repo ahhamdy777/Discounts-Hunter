@@ -1,29 +1,25 @@
 {
-  "ts": 1794249879,
+  "ts": 1794276249,
   "checked": 240,
-  "ok": 6,
+  "ok": 1,
   "failed": 0,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "2b": 2,
-    "noon": 220,
-    "amazon": 14
+    "noon": 222,
+    "amazon": 19
   },
   "sources": [],
   "errors": [
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=xiaomi: HTTP 403",
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=laptop: HTTP 403",
-    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: HTTP 403",
-    "noon https://www.noon.com/egypt-en/washing-machine-feathers-10-kg-fwm-40-white/N52887: HTTP 403",
-    "noon https://www.noon.com/egypt-en/toshiba-refrigerator-gr-rt558we-pmn-57-origin-inve: HTTP 403",
-    "noon https://www.noon.com/egypt-en/30000-mah-30000-mah-power-bank-22-5w-pd-qc3-0-afc-: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0DSLSY7NV: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0DSQ3JXQ3: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0GQCB3GLH: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B09VH8WQ41: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B09VHBJZZ3: blocked (Amazon robot check page)"
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=air+fryer: HTTP 403",
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 403",
+    "listing https://www.noon.com/egypt-en/: HTTP 403",
+    "listing https://www.noon.com/egypt-en/search/?q=iphone&page=2: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0H4LDK36W: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0DZHQ5FK8: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0DZHM5979: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
