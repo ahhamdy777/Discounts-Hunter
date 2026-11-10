@@ -1,38 +1,32 @@
 {
-  "ts": 1794332854,
+  "ts": 1794352572,
   "checked": 240,
-  "ok": 4,
+  "ok": 0,
   "failed": 0,
-  "added": 23,
+  "added": 60,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "jumia": 2,
-    "2b": 2,
-    "noon": 220,
-    "amazon": 16
+    "amazon": 22,
+    "noon": 220
   },
   "sources": [
     {
-      "url": "https://www.noon.com/egypt-en/electronics-and-mobiles/?page=3",
-      "links": 25
+      "url": "https://www.amazon.eg/s?k=iphone",
+      "links": 116
     }
   ],
   "errors": [
-    "listing https://www.jumia.com.eg/home-appliances/: HTTP 403",
-    "listing https://www.jumia.com.eg/mens-fashion/: HTTP 403",
-    "listing https://btech.com/en/televisions.html: HTTP 404",
-    "listing https://btech.com/en/home-appliances.html: HTTP 404",
-    "listing https://2b.com.eg/en/mobile-phones.html: HTTP 403",
-    "listing https://2b.com.eg/en/home-appliances.html: HTTP 403",
-    "noon https://www.noon.com/egypt-en/galaxy-a17-dual-sim-4g-gray-4gb-ram-128gb-middle-e: HTTP 403",
-    "noon https://www.noon.com/egypt-en/27-inch-g5-odyssey-qhd-2k-curved-gaming-monitor-hr: HTTP 403",
-    "noon https://www.noon.com/egypt-en/portable-classic-radio-rx-608acw-brown/N38184592A/: HTTP 403",
-    "noon https://www.noon.com/egypt-en/50-inch-4k-uhd-smart-google-tv-with-hdmi-2-1-allm-: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0FKHGKKD2: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0DM9M1ZLX: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0DPWVMNXM: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B09X4D56V7: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/catalog/?q=laptop: HTTP 403",
+    "listing https://www.jumia.com.eg/catalog/?q=tv: HTTP 403",
+    "listing https://www.amazon.eg/: blocked (Amazon robot check page)",
+    "listing https://www.amazon.eg/s?k=samsung&page=2: HTTP 503",
+    "noon https://www.noon.com/egypt-en/soundcore-r60i-nc-true-wireless-earbuds-with-adapt: HTTP 403",
+    "noon https://www.noon.com/egypt-en/tab-one-with-clear-case-8-7-mediatek-helio-g85-pro: HTTP 403",
+    "noon https://www.noon.com/egypt-en/smart-tank-581-wireless-all-in-one-printer-print-s: HTTP 403",
+    "noon https://www.noon.com/egypt-en/hollyland-lark-a1-mini-magnetic-wireless-mic-3-lev: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0FQFL2G9X: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
