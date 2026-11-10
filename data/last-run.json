@@ -1,25 +1,51 @@
 {
-  "ts": 1794276249,
+  "ts": 1794303902,
   "checked": 240,
   "ok": 1,
   "failed": 0,
-  "added": 0,
+  "added": 60,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "2b": 2,
-    "noon": 222,
-    "amazon": 19
+    "jumia": 2,
+    "noon": 220,
+    "amazon": 20
   },
-  "sources": [],
+  "sources": [
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%AA%D9%83%D9%8A%D9%8A%D9%81&page=3",
+      "links": 38
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+      "links": 0
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%B9%D8%B7%D8%B1&page=2",
+      "links": 12
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9&page=2",
+      "links": 46
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=air+fryer&page=2",
+      "links": 40
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9&page=2",
+      "links": 28
+    }
+  ],
   "errors": [
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=air+fryer: HTTP 403",
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 403",
-    "listing https://www.noon.com/egypt-en/: HTTP 403",
-    "listing https://www.noon.com/egypt-en/search/?q=iphone&page=2: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0H4LDK36W: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0DZHQ5FK8: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0DZHM5979: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/: HTTP 403",
+    "listing https://www.noon.com/egypt-en/search/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9&page=2: HTTP 403",
+    "listing https://www.jumia.com.eg/mobile-phones/: HTTP 403",
+    "noon https://www.noon.com/egypt-en/midea-ai-eco-master-2-25hp-inverter-heat-cool-spli: HTTP 403",
+    "noon https://www.noon.com/egypt-en/2-25-hp-cool-heat-air-conditioner-extreme-pro-extr: HTTP 403",
+    "noon https://www.noon.com/egypt-en/lg-air-condition-split-1-5hp-cooling-inverter-plas: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0DDYCL1JP: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0HL91BCC3: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
