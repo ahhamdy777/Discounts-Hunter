@@ -1,32 +1,25 @@
 {
-  "ts": 1794352572,
+  "ts": 1794365347,
   "checked": 240,
-  "ok": 0,
-  "failed": 0,
-  "added": 60,
+  "ok": 213,
+  "failed": 7,
+  "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "jumia": 2,
-    "amazon": 22,
-    "noon": 220
+    "amazon": 22
   },
-  "sources": [
-    {
-      "url": "https://www.amazon.eg/s?k=iphone",
-      "links": 116
-    }
-  ],
+  "sources": [],
   "errors": [
-    "listing https://www.jumia.com.eg/catalog/?q=laptop: HTTP 403",
-    "listing https://www.jumia.com.eg/catalog/?q=tv: HTTP 403",
-    "listing https://www.amazon.eg/: blocked (Amazon robot check page)",
-    "listing https://www.amazon.eg/s?k=samsung&page=2: HTTP 503",
-    "noon https://www.noon.com/egypt-en/soundcore-r60i-nc-true-wireless-earbuds-with-adapt: HTTP 403",
-    "noon https://www.noon.com/egypt-en/tab-one-with-clear-case-8-7-mediatek-helio-g85-pro: HTTP 403",
-    "noon https://www.noon.com/egypt-en/smart-tank-581-wireless-all-in-one-printer-print-s: HTTP 403",
-    "noon https://www.noon.com/egypt-en/hollyland-lark-a1-mini-magnetic-wireless-mic-3-lev: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0FQFL2G9X: blocked (Amazon robot check page)"
+    "listing https://www.amazon.eg/s?k=xiaomi&page=2: HTTP 503",
+    "listing https://www.amazon.eg/s?k=laptop: HTTP 503",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-256gb-nano-sim-esim-deep-blue-5g-wit: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-blue-512-gigabyte-nano-esim-5g-with-: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-16e-physical-dual-sim-256gb-black-5g-withou: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-jumbo-50000200: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-feathers-10-kg-fwm-40-white/N52887: no price found"
   ],
   "fromWatchlist": 0
 }
