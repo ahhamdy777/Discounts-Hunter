@@ -1,25 +1,47 @@
 {
-  "ts": 1794365347,
+  "ts": 1794394298,
   "checked": 240,
-  "ok": 213,
-  "failed": 7,
-  "added": 0,
+  "ok": 2,
+  "failed": 0,
+  "added": 50,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "amazon": 22
+    "jumia": 2,
+    "noon": 220,
+    "amazon": 18
   },
-  "sources": [],
+  "sources": [
+    {
+      "url": "https://www.amazon.eg/s?k=air+fryer",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D9%85%D9%83%D9%86%D8%B3%D8%A9",
+      "links": 0
+    },
+    {
+      "url": "https://www.amazon.eg/gp/bestsellers/?page=2",
+      "links": 72
+    },
+    {
+      "url": "https://www.amazon.eg/gp/new-releases/?page=2",
+      "links": 72
+    },
+    {
+      "url": "https://www.amazon.eg/gp/movers-and-shakers/",
+      "links": 0
+    }
+  ],
   "errors": [
-    "listing https://www.amazon.eg/s?k=xiaomi&page=2: HTTP 503",
-    "listing https://www.amazon.eg/s?k=laptop: HTTP 503",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-256gb-nano-sim-esim-deep-blue-5g-wit: no price found",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: no price found",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-blue-512-gigabyte-nano-esim-5g-with-: no price found",
-    "noon https://www.noon.com/egypt-en/iphone-16e-physical-dual-sim-256gb-black-5g-withou: no price found",
-    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: no price found",
-    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-jumbo-50000200: no price found",
-    "noon https://www.noon.com/egypt-en/washing-machine-feathers-10-kg-fwm-40-white/N52887: no price found"
+    "listing https://www.jumia.com.eg/smartphones/: HTTP 403",
+    "listing https://www.jumia.com.eg/phones-tablets/: HTTP 403",
+    "noon https://www.noon.com/egypt-en/tab-one-with-clear-case-8-7-mediatek-helio-g85-pro: HTTP 403",
+    "noon https://www.noon.com/egypt-en/smart-tank-581-wireless-all-in-one-printer-print-s: HTTP 403",
+    "noon https://www.noon.com/egypt-en/hollyland-lark-a1-mini-magnetic-wireless-mic-3-lev: HTTP 403",
+    "noon https://www.noon.com/egypt-en/canon-pixma-ts3640-wireless-colour-3-in-one-inkjet: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0GCP3GB8M: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0GCPPXSWK: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
