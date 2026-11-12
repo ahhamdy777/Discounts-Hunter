@@ -1,24 +1,54 @@
 {
-  "ts": 1794507397,
+  "ts": 1794526833,
   "checked": 240,
-  "ok": 2,
-  "failed": 0,
-  "added": 0,
+  "ok": 213,
+  "failed": 8,
+  "added": 60,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "2b": 1,
-    "noon": 222,
-    "amazon": 18
+    "jumia": 2,
+    "amazon": 19
   },
-  "sources": [],
+  "sources": [
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A",
+      "links": 0
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%B9%D8%B7%D8%B1&page=3",
+      "links": 9
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9&page=3",
+      "links": 39
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9&page=2",
+      "links": 38
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=air+fryer&page=3",
+      "links": 24
+    },
+    {
+      "url": "https://www.noon.com/egypt-en/search/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9&page=3",
+      "links": 35
+    }
+  ],
   "errors": [
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 403",
-    "listing https://www.noon.com/egypt-en/: HTTP 403",
-    "listing https://www.noon.com/egypt-en/search/?q=iphone&page=2: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0HKNFNZ24: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0HG7S4R54: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0HGBKW48L: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/: HTTP 403",
+    "listing https://www.jumia.com.eg/mobile-phones/: HTTP 403",
+    "noon https://www.noon.com/egypt-en/iphone-17e-256gb-white-5g-nano-sim-esim-with-facet: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-256gb-nano-sim-esim-deep-blue-5g-wit: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-blue-512-gigabyte-nano-esim-5g-with-: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-jumbo-50000200: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-feathers-10-kg-fwm-40-white/N52887: no price found",
+    "amazon https://www.amazon.eg/dp/B0FND1XJCN: no price found",
+    "amazon https://www.amazon.eg/dp/B0FNCZKDS2: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0FNCYRVZ4: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
