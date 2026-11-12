@@ -1,25 +1,24 @@
 {
-  "ts": 1794476798,
+  "ts": 1794507397,
   "checked": 240,
-  "ok": 1,
+  "ok": 2,
   "failed": 0,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "2b": 2,
-    "noon": 219,
-    "amazon": 20
+    "2b": 1,
+    "noon": 222,
+    "amazon": 18
   },
   "sources": [],
   "errors": [
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=laptop: HTTP 403",
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=tv: HTTP 403",
-    "noon https://www.noon.com/egypt-en/smart-tank-581-wireless-all-in-one-printer-print-s: HTTP 403",
-    "noon https://www.noon.com/egypt-en/hollyland-lark-a1-mini-magnetic-wireless-mic-3-lev: HTTP 403",
-    "noon https://www.noon.com/egypt-en/canon-pixma-ts3640-wireless-colour-3-in-one-inkjet: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0HGB1V82V: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0HHNK42BX: blocked (Amazon robot check page)"
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 403",
+    "listing https://www.noon.com/egypt-en/: HTTP 403",
+    "listing https://www.noon.com/egypt-en/search/?q=iphone&page=2: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0HKNFNZ24: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0HG7S4R54: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0HGBKW48L: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
