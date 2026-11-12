@@ -1,38 +1,32 @@
 {
-  "ts": 1794422424,
+  "ts": 1794447055,
   "checked": 240,
-  "ok": 0,
-  "failed": 0,
+  "ok": 211,
+  "failed": 9,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "jumia": 1,
-    "noon": 220,
+    "2b": 2,
     "amazon": 20
   },
-  "sources": [
-    {
-      "url": "https://btech.com/en/",
-      "links": 0
-    }
-  ],
+  "sources": [],
   "errors": [
-    "listing https://www.jumia.com.eg/catalog/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 403",
-    "listing https://btech.com/en/catalogsearch/result/?q=iphone: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=samsung: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=xiaomi: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=laptop: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=tv: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%AB%D9%84%D8%A7%D8%AC%D8%A9: HTTP 404",
-    "listing https://btech.com/en/catalogsearch/result/?q=%D8%AA%D9%83%D9%8A%D9%8A%D9%81: HTTP 404",
-    "noon https://www.noon.com/egypt-en/iphone-15-256gb-black-5g-with-facetime-internation: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-18-pro-max-256gb-nano-sim-esim-black-5g-wit: HTTP 403",
-    "noon https://www.noon.com/egypt-en/iphone-17-pro-256gb-cosmic-orange-5g-nano-sim-esim: HTTP 403",
-    "noon https://www.noon.com/egypt-en/galaxy-a17-dual-sim-4g-black-4gb-ram-128gb-middle-: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0F94H32LQ: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0BMN1XVF8: blocked (Amazon robot check page)"
+    "listing https://btech.com/en/catalogsearch/result/?q=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=%D8%B9%D8%B7%D8%B1: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=%D8%B3%D8%A7%D8%B9%D8%A9+%D8%B0%D9%83%D9%8A%D8%A9: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=air+fryer: HTTP 404",
+    "listing https://btech.com/en/catalogsearch/result/?q=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 404",
+    "listing https://2b.com.eg/en/: HTTP 403",
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=iphone: HTTP 403",
+    "noon https://www.noon.com/egypt-en/2-25-hp-cool-heat-air-conditioner-extreme-pro-extr: no price found",
+    "noon https://www.noon.com/egypt-en/liberty-5-by-anker-noise-cancelling-wireless-earbu: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17e-256gb-white-5g-nano-sim-esim-with-facet: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-256gb-nano-sim-esim-deep-blue-5g-wit: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-max-deep-blue-1tb-nano-esim-5g-with-: no price found",
+    "noon https://www.noon.com/egypt-en/iphone-17-pro-blue-512-gigabyte-nano-esim-5g-with-: no price found",
+    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: no price found"
   ],
   "fromWatchlist": 0
 }
