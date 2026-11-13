@@ -1,26 +1,42 @@
 {
-  "ts": 1794583320,
+  "ts": 1794607081,
   "checked": 240,
-  "ok": 0,
-  "failed": 0,
-  "added": 0,
+  "ok": 76,
+  "failed": 1,
+  "added": 60,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "jumia": 2,
-    "amazon": 22,
-    "noon": 220
+    "amazon": 24,
+    "noon": 143
   },
-  "sources": [],
+  "sources": [
+    {
+      "url": "https://www.amazon.eg/s?k=laptop",
+      "links": 144
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9",
+      "links": 140
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%AB%D9%84%D8%A7%D8%AC%D8%A9&page=2",
+      "links": 140
+    },
+    {
+      "url": "https://www.amazon.eg/s?k=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A&page=2",
+      "links": 166
+    }
+  ],
   "errors": [
-    "listing https://www.jumia.com.eg/catalog/?q=tv: HTTP 403",
-    "listing https://www.jumia.com.eg/catalog/?q=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9: HTTP 403",
-    "listing https://www.amazon.eg/: blocked (Amazon robot check page)",
-    "listing https://www.amazon.eg/s?k=iphone&page=2: HTTP 503",
-    "noon https://www.noon.com/egypt-en/buds-pro-wirelesss-earphones-with-45-db-anc-ultra-: HTTP 403",
-    "noon https://www.noon.com/egypt-en/band-7-smartwatch-graphite-black/N70014741V/p/?o=e: HTTP 403",
-    "noon https://www.noon.com/egypt-en/smartwatch-storm-plus-isw-o15-2-01-ultra-large-hd-: HTTP 403",
-    "noon https://www.noon.com/egypt-en/watch-nova-v-2-01-hd-video-watch-faces-smartwatch-: HTTP 403"
+    "listing https://www.amazon.eg/s?k=tv&page=2: HTTP 503",
+    "listing https://www.amazon.eg/s?k=%D8%AA%D9%83%D9%8A%D9%8A%D9%81: HTTP 503",
+    "listing https://www.amazon.eg/s?k=%D8%B9%D8%B7%D8%B1: HTTP 503",
+    "listing https://www.amazon.eg/s?k=%D8%B3%D9%85%D8%A7%D8%B9%D8%A9: HTTP 503",
+    "noon https://www.noon.com/egypt-en/toshiba-refrigerator-inverter-motor-411l-gr-rt559w: no price found",
+    "noon https://www.noon.com/egypt-en/refrigerator-side-x-side-565-liter-nofrost-digital: HTTP 403",
+    "noon https://www.noon.com/egypt-en/beko-350-l-no-frost-refrigerator-rdne400k02dxiegb-: HTTP 403",
+    "noon https://www.noon.com/egypt-en/one-door-refrigerator-10-feet-super-jumbo-defrost-: HTTP 403"
   ],
   "fromWatchlist": 0
 }
