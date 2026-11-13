@@ -1,34 +1,26 @@
 {
-  "ts": 1794551935,
+  "ts": 1794583320,
   "checked": 240,
-  "ok": 217,
-  "failed": 3,
-  "added": 28,
+  "ok": 0,
+  "failed": 0,
+  "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "jumia": 2,
-    "2b": 2,
-    "amazon": 20
+    "amazon": 22,
+    "noon": 220
   },
-  "sources": [
-    {
-      "url": "https://www.noon.com/egypt-en/electronics-and-mobiles/?page=4",
-      "links": 29
-    }
-  ],
+  "sources": [],
   "errors": [
-    "listing https://www.jumia.com.eg/mens-fashion/: HTTP 403",
-    "listing https://btech.com/en/televisions.html: HTTP 404",
-    "listing https://btech.com/en/home-appliances.html: HTTP 404",
-    "listing https://2b.com.eg/en/mobile-phones.html: HTTP 403",
-    "listing https://www.jumia.com.eg/catalog/?q=iphone: HTTP 403",
-    "listing https://2b.com.eg/en/home-appliances.html: HTTP 403",
-    "noon https://www.noon.com/egypt-en/toshiba-refrigerator-gr-rt558we-pmn-57-origin-inve: no price found",
-    "noon https://www.noon.com/egypt-en/2-25-hp-cool-heat-air-conditioner-extreme-pro-extr: no price found",
-    "noon https://www.noon.com/egypt-en/liberty-5-by-anker-noise-cancelling-wireless-earbu: no price found",
-    "amazon https://www.amazon.eg/dp/B09VHBJZZ3: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B09VHTQSYX: blocked (Amazon robot check page)"
+    "listing https://www.jumia.com.eg/catalog/?q=tv: HTTP 403",
+    "listing https://www.jumia.com.eg/catalog/?q=%D8%BA%D8%B3%D8%A7%D9%84%D8%A9: HTTP 403",
+    "listing https://www.amazon.eg/: blocked (Amazon robot check page)",
+    "listing https://www.amazon.eg/s?k=iphone&page=2: HTTP 503",
+    "noon https://www.noon.com/egypt-en/buds-pro-wirelesss-earphones-with-45-db-anc-ultra-: HTTP 403",
+    "noon https://www.noon.com/egypt-en/band-7-smartwatch-graphite-black/N70014741V/p/?o=e: HTTP 403",
+    "noon https://www.noon.com/egypt-en/smartwatch-storm-plus-isw-o15-2-01-ultra-large-hd-: HTTP 403",
+    "noon https://www.noon.com/egypt-en/watch-nova-v-2-01-hd-video-watch-faces-smartwatch-: HTTP 403"
   ],
   "fromWatchlist": 0
 }
