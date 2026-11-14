@@ -1,36 +1,27 @@
 {
-  "ts": 1794651553,
+  "ts": 1794675810,
   "checked": 240,
-  "ok": 7,
-  "failed": 4,
+  "ok": 0,
+  "failed": 3,
   "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
     "2b": 2,
-    "noon": 213,
-    "amazon": 16
+    "noon": 222,
+    "amazon": 17
   },
-  "sources": [
-    {
-      "url": "https://btech.com/en/",
-      "links": 0
-    }
-  ],
+  "sources": [],
   "errors": [
-    "listing https://2b.com.eg/en/: HTTP 403",
-    "listing https://2b.com.eg/en/catalogsearch/result/?q=iphone: HTTP 403",
-    "noon https://www.noon.com/egypt-en/hollyland-lark-a1-mini-magnetic-wireless-mic-3-lev: HTTP 403",
-    "noon https://www.noon.com/egypt-en/soundcore-r60i-nc-true-wireless-earbuds-with-adapt: HTTP 403",
-    "noon https://www.noon.com/egypt-en/322-ultra-durable-cable-usb-c-to-usb-c-cable-3-3-f: HTTP 403",
-    "noon https://www.noon.com/egypt-en/instax-mini-instant-film-10-sheet-white/N70133422V: HTTP 403",
-    "noon https://www.noon.com/egypt-en/soundcore-by-anker-r50i-true-wireless-black/N53409: HTTP 403",
-    "amazon https://www.amazon.eg/dp/B0GR1FC8FN: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0H2HKKG7G: no price found",
-    "amazon https://www.amazon.eg/dp/B0GR1FH8Y1: no price found",
-    "amazon https://www.amazon.eg/dp/B0D2M11XBS: no price found",
-    "amazon https://www.amazon.eg/dp/B0HPFVNPMV: no price found",
-    "amazon https://www.amazon.eg/dp/B0H957KCQ4: blocked (Amazon robot check page)"
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D8%AD%D8%B0%D8%A7%D8%A1+%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A: HTTP 403",
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=%D8%B9%D8%B7%D8%B1: HTTP 403",
+    "listing https://www.noon.com/egypt-en/: HTTP 403",
+    "listing https://www.noon.com/egypt-en/search/?q=iphone&page=2: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B07MTTLNF7: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0BSXT47FF: no price found",
+    "amazon https://www.amazon.eg/dp/B0DXFZXW24: no price found",
+    "amazon https://www.amazon.eg/dp/B092R5MCB3: no price found",
+    "amazon https://www.amazon.eg/dp/B0HH94DJ4P: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
