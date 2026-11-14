@@ -1,40 +1,36 @@
 {
-  "ts": 1794623085,
+  "ts": 1794651553,
   "checked": 240,
-  "ok": 216,
-  "failed": 5,
-  "added": 24,
+  "ok": 7,
+  "failed": 4,
+  "added": 0,
   "newListings": 0,
   "removed": 0,
   "blocked": {
-    "amazon": 20,
-    "jumia": 2
+    "2b": 2,
+    "noon": 213,
+    "amazon": 16
   },
   "sources": [
     {
-      "url": "https://www.amazon.eg/gp/bestsellers/?page=3",
-      "links": 72
-    },
-    {
-      "url": "https://www.amazon.eg/gp/new-releases/?page=3",
-      "links": 72
-    },
-    {
-      "url": "https://www.amazon.eg/gp/movers-and-shakers/",
+      "url": "https://btech.com/en/",
       "links": 0
     }
   ],
   "errors": [
-    "listing https://www.amazon.eg/s?k=%D9%85%D9%83%D9%86%D8%B3%D8%A9: HTTP 503",
-    "listing https://www.jumia.com.eg/smartphones/: HTTP 403",
-    "listing https://www.jumia.com.eg/phones-tablets/: HTTP 403",
-    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-shabah-fws800n: no price found",
-    "noon https://www.noon.com/egypt-en/washing-machine-top-load-single-tub-jumbo-50000200: no price found",
-    "noon https://www.noon.com/egypt-en/toshiba-top-loading-washing-machine-ufb-great-wave: no price found",
-    "noon https://www.noon.com/egypt-en/washing-machine-feathers-10-kg-fwm-40-white/N52887: no price found",
-    "amazon https://www.amazon.eg/dp/B0FGDJFPP2: no price found",
-    "amazon https://www.amazon.eg/dp/B0GSBNXNSM: blocked (Amazon robot check page)",
-    "amazon https://www.amazon.eg/dp/B0H2HXQXDJ: blocked (Amazon robot check page)"
+    "listing https://2b.com.eg/en/: HTTP 403",
+    "listing https://2b.com.eg/en/catalogsearch/result/?q=iphone: HTTP 403",
+    "noon https://www.noon.com/egypt-en/hollyland-lark-a1-mini-magnetic-wireless-mic-3-lev: HTTP 403",
+    "noon https://www.noon.com/egypt-en/soundcore-r60i-nc-true-wireless-earbuds-with-adapt: HTTP 403",
+    "noon https://www.noon.com/egypt-en/322-ultra-durable-cable-usb-c-to-usb-c-cable-3-3-f: HTTP 403",
+    "noon https://www.noon.com/egypt-en/instax-mini-instant-film-10-sheet-white/N70133422V: HTTP 403",
+    "noon https://www.noon.com/egypt-en/soundcore-by-anker-r50i-true-wireless-black/N53409: HTTP 403",
+    "amazon https://www.amazon.eg/dp/B0GR1FC8FN: blocked (Amazon robot check page)",
+    "amazon https://www.amazon.eg/dp/B0H2HKKG7G: no price found",
+    "amazon https://www.amazon.eg/dp/B0GR1FH8Y1: no price found",
+    "amazon https://www.amazon.eg/dp/B0D2M11XBS: no price found",
+    "amazon https://www.amazon.eg/dp/B0HPFVNPMV: no price found",
+    "amazon https://www.amazon.eg/dp/B0H957KCQ4: blocked (Amazon robot check page)"
   ],
   "fromWatchlist": 0
 }
